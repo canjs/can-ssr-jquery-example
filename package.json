@@ -12,7 +12,7 @@
   "dependencies": {
     "bootstrap": "^3.3.6",
     "can-ssr": "^0.11.0-pre.2",
-    "detect-node": "^2.0.3",
+    "detect-node": "^2.0.4",
     "jquery": "^3.1.1",
     "steal": "^0.16.43",
     "steal-template": "^1.0.1"
