@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^4.3.0",
     "can-ssr": "^0.11.0-pre.2",
     "detect-node": "^2.0.3",
     "jquery": "^3.1.1",
